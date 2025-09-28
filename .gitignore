@@ -146,6 +146,7 @@ hatch_javascript/extension
 # Jupyter
 .ipynb_checkpoints
 .autoversion
+Untitled*.ipynb
 !hatch_javascript/extension/hatch_javascript.json
 !hatch_javascript/extension/install.json
 hatch_javascript/nbextension
